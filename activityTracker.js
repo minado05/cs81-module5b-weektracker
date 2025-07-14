@@ -91,3 +91,8 @@ function commonActivity(log) {
   }
   return maxActivity;
 }
+
+// -- Custom High-Order Function --
+function modifiedWeek(testFn) {
+  return myWeek.map(testFn);
+}
