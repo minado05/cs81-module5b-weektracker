@@ -1,0 +1,1 @@
+My predictions were accurate. What surprised me the most about my week is that I spent 15 hours at work in total. The high-order function that was the most useful is the countActivity function because I was able to reuse it for the commonActivity function.
