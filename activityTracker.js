@@ -56,3 +56,9 @@ const myWeek = [
     timeOfDay: "afternoon",
   },
 ];
+
+/* Predictions
+The activity with the highest enjoyment is hanging out with family.
+The category that will dominate my week is office.
+The pattern that might exist around time of day is that I mostly spend the afternoon doing work or school.
+*/
